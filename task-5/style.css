@@ -1,0 +1,21 @@
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.alert {
+  margin-top: 15px;
+  color: red;
+}
+
+.result {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly; 
+}
+
+.card__imgs {
+  width: 300px;
+  height: 200px;
+  margin-top: 20px;
+}

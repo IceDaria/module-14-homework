@@ -1,0 +1,22 @@
+.main {
+  padding: 20px;
+}
+
+.alert {
+  padding-top: 10px;
+  color: red;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card {
+  margin: 20px;
+}
+
+.card__image {
+  width: 300px;
+  height: 200px;
+}
